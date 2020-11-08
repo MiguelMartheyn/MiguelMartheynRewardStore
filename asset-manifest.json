@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/MiguelMartheynRewardStore/static/css/main.93f524e0.chunk.css",
+    "main.js": "/MiguelMartheynRewardStore/static/js/main.85c30419.chunk.js",
+    "main.js.map": "/MiguelMartheynRewardStore/static/js/main.85c30419.chunk.js.map",
+    "runtime-main.js": "/MiguelMartheynRewardStore/static/js/runtime-main.a543daf2.js",
+    "runtime-main.js.map": "/MiguelMartheynRewardStore/static/js/runtime-main.a543daf2.js.map",
+    "static/js/2.05697972.chunk.js": "/MiguelMartheynRewardStore/static/js/2.05697972.chunk.js",
+    "static/js/2.05697972.chunk.js.map": "/MiguelMartheynRewardStore/static/js/2.05697972.chunk.js.map",
+    "index.html": "/MiguelMartheynRewardStore/index.html",
+    "precache-manifest.db302999795b1ffc39fed4762b73dfb1.js": "/MiguelMartheynRewardStore/precache-manifest.db302999795b1ffc39fed4762b73dfb1.js",
+    "service-worker.js": "/MiguelMartheynRewardStore/service-worker.js",
+    "static/css/main.93f524e0.chunk.css.map": "/MiguelMartheynRewardStore/static/css/main.93f524e0.chunk.css.map",
+    "static/js/2.05697972.chunk.js.LICENSE.txt": "/MiguelMartheynRewardStore/static/js/2.05697972.chunk.js.LICENSE.txt",
+    "static/media/buy-blue.svg": "/MiguelMartheynRewardStore/static/media/buy-blue.2f11a957.svg",
+    "static/media/coin.svg": "/MiguelMartheynRewardStore/static/media/coin.4669120c.svg",
+    "static/media/compras.png": "/MiguelMartheynRewardStore/static/media/compras.49efb318.png",
+    "static/media/cry.png": "/MiguelMartheynRewardStore/static/media/cry.b8bda255.png",
+    "static/media/happy.png": "/MiguelMartheynRewardStore/static/media/happy.d016bdb2.png",
+    "static/media/main.png": "/MiguelMartheynRewardStore/static/media/main.f0b98264.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a543daf2.js",
+    "static/js/2.05697972.chunk.js",
+    "static/css/main.93f524e0.chunk.css",
+    "static/js/main.85c30419.chunk.js"
+  ]
+}
