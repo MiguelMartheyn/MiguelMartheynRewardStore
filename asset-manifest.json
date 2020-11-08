@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/MiguelMartheynRewardStore/static/css/main.579e8b3f.chunk.css",
+    "main.css": "/MiguelMartheynRewardStore/static/css/main.e51b5226.chunk.css",
     "main.js": "/MiguelMartheynRewardStore/static/js/main.85c30419.chunk.js",
     "main.js.map": "/MiguelMartheynRewardStore/static/js/main.85c30419.chunk.js.map",
     "runtime-main.js": "/MiguelMartheynRewardStore/static/js/runtime-main.a543daf2.js",
@@ -8,9 +8,9 @@
     "static/js/2.05697972.chunk.js": "/MiguelMartheynRewardStore/static/js/2.05697972.chunk.js",
     "static/js/2.05697972.chunk.js.map": "/MiguelMartheynRewardStore/static/js/2.05697972.chunk.js.map",
     "index.html": "/MiguelMartheynRewardStore/index.html",
-    "precache-manifest.6582c2c81ba80a42a16a33a961288b20.js": "/MiguelMartheynRewardStore/precache-manifest.6582c2c81ba80a42a16a33a961288b20.js",
+    "precache-manifest.681b9af3a6ce4c3e811943473d686ead.js": "/MiguelMartheynRewardStore/precache-manifest.681b9af3a6ce4c3e811943473d686ead.js",
     "service-worker.js": "/MiguelMartheynRewardStore/service-worker.js",
-    "static/css/main.579e8b3f.chunk.css.map": "/MiguelMartheynRewardStore/static/css/main.579e8b3f.chunk.css.map",
+    "static/css/main.e51b5226.chunk.css.map": "/MiguelMartheynRewardStore/static/css/main.e51b5226.chunk.css.map",
     "static/js/2.05697972.chunk.js.LICENSE.txt": "/MiguelMartheynRewardStore/static/js/2.05697972.chunk.js.LICENSE.txt",
     "static/media/buy-blue.svg": "/MiguelMartheynRewardStore/static/media/buy-blue.2f11a957.svg",
     "static/media/coin.svg": "/MiguelMartheynRewardStore/static/media/coin.4669120c.svg",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.a543daf2.js",
     "static/js/2.05697972.chunk.js",
-    "static/css/main.579e8b3f.chunk.css",
+    "static/css/main.e51b5226.chunk.css",
     "static/js/main.85c30419.chunk.js"
   ]
 }

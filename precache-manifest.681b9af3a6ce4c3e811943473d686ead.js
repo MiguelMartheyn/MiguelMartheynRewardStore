@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f1c38ffa128f8ee36bf8bf2c891b3efe",
+    "revision": "b2e57812859d1ad1872f35819d0e5534",
     "url": "/MiguelMartheynRewardStore/index.html"
   },
   {
-    "revision": "a07248cd54f4016c9835",
-    "url": "/MiguelMartheynRewardStore/static/css/main.579e8b3f.chunk.css"
+    "revision": "797a037cf23bfeb86721",
+    "url": "/MiguelMartheynRewardStore/static/css/main.e51b5226.chunk.css"
   },
   {
     "revision": "0825e6bea43c38d99fa1",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MiguelMartheynRewardStore/static/js/2.05697972.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a07248cd54f4016c9835",
+    "revision": "797a037cf23bfeb86721",
     "url": "/MiguelMartheynRewardStore/static/js/main.85c30419.chunk.js"
   },
   {

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/MiguelMartheynRewardStore/precache-manifest.6582c2c81ba80a42a16a33a961288b20.js"
+  "/MiguelMartheynRewardStore/precache-manifest.681b9af3a6ce4c3e811943473d686ead.js"
 );
 
 self.addEventListener('message', (event) => {
